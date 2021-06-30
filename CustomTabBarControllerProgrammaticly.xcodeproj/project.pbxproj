@@ -13,6 +13,7 @@
 		2CC390EF268C7822002B1E36 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC390ED268C7822002B1E36 /* Main.storyboard */; };
 		2CC390F1268C7823002B1E36 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2CC390F0268C7823002B1E36 /* Assets.xcassets */; };
 		2CC390F4268C7823002B1E36 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2CC390F2268C7823002B1E36 /* LaunchScreen.storyboard */; };
+		2CC390FC268C7859002B1E36 /* CustomTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2CC390FB268C7859002B1E36 /* CustomTabBarController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		2CC390F0268C7823002B1E36 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2CC390F3268C7823002B1E36 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		2CC390F5268C7823002B1E36 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		2CC390FB268C7859002B1E36 /* CustomTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomTabBarController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				2CC390E7268C7822002B1E36 /* AppDelegate.swift */,
 				2CC390E9268C7822002B1E36 /* SceneDelegate.swift */,
 				2CC390EB268C7822002B1E36 /* ViewController.swift */,
+				2CC390FB268C7859002B1E36 /* CustomTabBarController.swift */,
 				2CC390ED268C7822002B1E36 /* Main.storyboard */,
 				2CC390F0268C7823002B1E36 /* Assets.xcassets */,
 				2CC390F2268C7823002B1E36 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				2CC390EC268C7822002B1E36 /* ViewController.swift in Sources */,
 				2CC390E8268C7822002B1E36 /* AppDelegate.swift in Sources */,
+				2CC390FC268C7859002B1E36 /* CustomTabBarController.swift in Sources */,
 				2CC390EA268C7822002B1E36 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
